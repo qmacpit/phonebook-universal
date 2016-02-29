@@ -29,10 +29,10 @@ class Details extends Component {
           contact
           ? (
             <div>
-              <div>{contact.id}</div>
-              <div>{contact.name}</div>            
-              <div>{contact.mobile}</div>            
-              <div>{contact.mail}</div>          
+              <div>id: <b>{contact.id}</b></div>
+              <div>name: <b>{contact.name}</b></div>            
+              <div>mobile: <b>{contact.mobile}</b></div>            
+              <div>mail: <b>{contact.mail}</b></div>          
             </div>            
           )
           : ''

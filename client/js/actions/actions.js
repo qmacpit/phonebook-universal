@@ -76,7 +76,6 @@ export function contactDetails(id) {
 export function newContact(contact) {
   return (dispatch, getState) => {    
     return createContact(contact)
-    .then(id => dispatch(addConcactResponse(id, contact)));
-    // return dispatch(performGetContactDetails(id));    
+    .then(id => dispatch(addConcactResponse(id, contact)));    
   }  
 }
