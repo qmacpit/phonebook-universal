@@ -1,4 +1,4 @@
-phonebook-client
+phonebook-universal
 =====================
 
 simple phonebook demo:
