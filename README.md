@@ -15,7 +15,7 @@ open http://localhost:8080/
 ```
 
 ### Usage(dev)
-'''
+```
 npm start
 open http://localhost:3000
 ```
