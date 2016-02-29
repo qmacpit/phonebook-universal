@@ -2,7 +2,7 @@ phonebook-client
 =====================
 
 simple phonebook demo:
- - clienside only
+ - universal app
  - react
  - react-router
  - redux
